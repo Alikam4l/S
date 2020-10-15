@@ -1,3 +1,6 @@
+
+
+
 @media (min-width: 576px) { body {
     font-size: 15pt;
     background:yellow;
@@ -88,7 +91,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: auto;
+width: 350px;
   
   
 }
@@ -142,7 +145,9 @@ color:red;
 font-size:20px;
 background:black;
 
-} }
+}
+
+ }
 
 @media (min-width: 768px) { body {
     font-size: 15pt;
@@ -234,7 +239,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: auto;
+width: 350px;
   
   
 }
@@ -288,7 +293,9 @@ color:red;
 font-size:20px;
 background:black;
 
-} }
+}
+
+ }
 
 
 @media (min-width: 992px) { body {
@@ -381,7 +388,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: auto;
+width: 350px;
   
   
 }
@@ -435,7 +442,9 @@ color:red;
 font-size:20px;
 background:black;
 
-} }
+}
+
+ }
 
 
 @media (min-width: 1200px) { body {
@@ -528,7 +537,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: auto;
+width: 350px;
   
   
 }
@@ -582,7 +591,9 @@ color:red;
 font-size:20px;
 background:black;
 
-} }                                                                                                                                                                                                          @media (max-width: 575.98px) { body {
+}
+
+ }                                                                                                                                                                                                          @media (max-width: 575.98px) { body {
     font-size: 15pt;
     background:yellow;
     animation-name:bod;
@@ -672,7 +683,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: auto;
+width: 350px;
   
   
 }
@@ -726,7 +737,9 @@ color:red;
 font-size:20px;
 background:black;
 
-} }
+}
+
+ }
 
 
 @media (max-width: 767.98px) { body {
@@ -819,7 +832,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: auto;
+width: 350px;
   
   
 }
@@ -873,7 +886,9 @@ color:red;
 font-size:20px;
 background:black;
 
-} }
+}
+
+ }
 
 @media (max-width: 991.98px) { body {
     font-size: 15pt;
@@ -965,7 +980,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: auto;
+width: 350px;
   
   
 }
@@ -1019,7 +1034,9 @@ color:red;
 font-size:20px;
 background:black;
 
-} }
+}
+
+ }
 
 @media (max-width: 1199.98px) { body {
     font-size: 15pt;
@@ -1111,7 +1128,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: auto;
+width: 350px;
   
   
 }
@@ -1165,4 +1182,6 @@ color:red;
 font-size:20px;
 background:black;
 
-} }
+}
+
+ }
