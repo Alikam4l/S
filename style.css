@@ -142,6 +142,39 @@ color:red;
 font-size:20px;
 background:black;
 
+} 
+
+.IGS{
+height: 100px;
+width: 80px;
+position: relative;
+left: 80px;
+top:40px; 
+}
+.insta{
+font-weight: bolder;
+font-size: 15px; 
+font-style: italic;
+position: relative;
+color:black;
+left: 80px;
+animation-name: IGSS;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+background:yellow;
+padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+border-radius:30px;
+
+}
+  
+@keyframes IGSS{
+10%{box-shadow:0px 0px 20px 0px red;}
+20%{background:#CA1889D4;}
+  
 } }
 
 @media (min-width: 768px) { body {
@@ -288,6 +321,39 @@ color:red;
 font-size:20px;
 background:black;
 
+} 
+
+.IGS{
+height: 100px;
+width: 80px;
+position: relative;
+left: 80px;
+top:40px; 
+}
+.insta{
+font-weight: bolder;
+font-size: 15px; 
+font-style: italic;
+position: relative;
+color:black;
+left: 80px;
+animation-name: IGSS;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+background:yellow;
+padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+border-radius:30px;
+
+}
+  
+@keyframes IGSS{
+10%{box-shadow:0px 0px 20px 0px red;}
+20%{background:#CA1889D4;}
+  
 } }
 
 
@@ -435,6 +501,39 @@ color:red;
 font-size:20px;
 background:black;
 
+} 
+
+.IGS{
+height: 100px;
+width: 80px;
+position: relative;
+left: 80px;
+top:40px; 
+}
+.insta{
+font-weight: bolder;
+font-size: 15px; 
+font-style: italic;
+position: relative;
+color:black;
+left: 80px;
+animation-name: IGSS;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+background:yellow;
+padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+border-radius:30px;
+
+}
+  
+@keyframes IGSS{
+10%{box-shadow:0px 0px 20px 0px red;}
+20%{background:#CA1889D4;}
+  
 } }
 
 
@@ -582,7 +681,40 @@ color:red;
 font-size:20px;
 background:black;
 
-} }                                                                                                                                                                                                          @media (max-width: 575.98px) { body {
+} 
+
+.IGS{
+height: 100px;
+width: 80px;
+position: relative;
+left: 80px;
+top:40px; 
+}
+.insta{
+font-weight: bolder;
+font-size: 15px; 
+font-style: italic;
+position: relative;
+color:black;
+left: 80px;
+animation-name: IGSS;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+background:yellow;
+padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+border-radius:30px;
+
+}
+  
+@keyframes IGSS{
+10%{box-shadow:0px 0px 20px 0px red;}
+20%{background:#CA1889D4;}
+  
+} }                                                                                                                                                                  media (max-width: 575.98px) { body {
     font-size: 15pt;
     background:yellow;
     animation-name:bod;
@@ -726,6 +858,39 @@ color:red;
 font-size:20px;
 background:black;
 
+} 
+
+.IGS{
+height: 100px;
+width: 80px;
+position: relative;
+left: 80px;
+top:40px; 
+}
+.insta{
+font-weight: bolder;
+font-size: 15px; 
+font-style: italic;
+position: relative;
+color:black;
+left: 80px;
+animation-name: IGSS;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+background:yellow;
+padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+border-radius:30px;
+
+}
+  
+@keyframes IGSS{
+10%{box-shadow:0px 0px 20px 0px red;}
+20%{background:#CA1889D4;}
+  
 } }
 
 
@@ -873,6 +1038,39 @@ color:red;
 font-size:20px;
 background:black;
 
+} 
+
+.IGS{
+height: 100px;
+width: 80px;
+position: relative;
+left: 80px;
+top:40px; 
+}
+.insta{
+font-weight: bolder;
+font-size: 15px; 
+font-style: italic;
+position: relative;
+color:black;
+left: 80px;
+animation-name: IGSS;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+background:yellow;
+padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+border-radius:30px;
+
+}
+  
+@keyframes IGSS{
+10%{box-shadow:0px 0px 20px 0px red;}
+20%{background:#CA1889D4;}
+  
 } }
 
 @media (max-width: 991.98px) { body {
@@ -1019,6 +1217,39 @@ color:red;
 font-size:20px;
 background:black;
 
+} 
+
+.IGS{
+height: 100px;
+width: 80px;
+position: relative;
+left: 80px;
+top:40px; 
+}
+.insta{
+font-weight: bolder;
+font-size: 15px; 
+font-style: italic;
+position: relative;
+color:black;
+left: 80px;
+animation-name: IGSS;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+background:yellow;
+padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+border-radius:30px;
+
+}
+  
+@keyframes IGSS{
+10%{box-shadow:0px 0px 20px 0px red;}
+20%{background:#CA1889D4;}
+  
 } }
 
 @media (max-width: 1199.98px) { body {
@@ -1165,4 +1396,37 @@ color:red;
 font-size:20px;
 background:black;
 
+} 
+
+.IGS{
+height: 100px;
+width: 80px;
+position: relative;
+left: 80px;
+top:40px; 
+}
+.insta{
+font-weight: bolder;
+font-size: 15px; 
+font-style: italic;
+position: relative;
+color:black;
+left: 80px;
+animation-name: IGSS;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+background:yellow;
+padding-top:10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+border-radius:30px;
+
+}
+  
+@keyframes IGSS{
+10%{box-shadow:0px 0px 20px 0px red;}
+20%{background:#CA1889D4;}
+  
 } }
