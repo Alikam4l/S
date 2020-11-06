@@ -1,9 +1,10 @@
 @media (min-width: 576px) { body {
     font-size: 15pt;
-    background:blaack;
+    background:black;
     animation-name:bod;
     animation-duration: 1s;
     animation-iteration-count: 1;
+
     
 }
 
@@ -38,7 +39,7 @@ animation-iteration-count: 1;
 
 .aliname{
 text-decoration: none;
-color:black;
+color:gold;
 font-weight: bolder;
 font-size: 30px;
 font-style: italic;
@@ -115,6 +116,7 @@ background:white;
   
 }
 .text{
+color:yellow;
 font-weight: bolder;  
 font-style: italic;
 font-family: serif;
@@ -125,7 +127,7 @@ animation-iteration-count: infinite;
 }
 
 .shaho{
-color:black;  
+color:white;  
 text-decoration: none;
 
 font-weight: bolder;
@@ -175,14 +177,42 @@ border-radius:30px;
 10%{box-shadow:0px 0px 20px 0px red;}
 20%{background:#CA1889D4;}
   
-} }
+}}
 
-@media (min-width: 768px) { body {
+@media (min-width: 768px) {}
+
+
+@media (min-width: 992px) { body {
+    font-size: 15pt;
+    background:yellow;
+    animation-name:bod;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    
+}
+
+@keyframes bod{
+10%{transform: translate(0px,900px);}  
+  
+}
+
+.alilist{
+border:solid 0px;
+  
+  
+}
+
+
+
+
+.snapcod{
+bobody {
     font-size: 15pt;
     background:black;
     animation-name:bod;
     animation-duration: 1s;
     animation-iteration-count: 1;
+
     
 }
 
@@ -217,7 +247,7 @@ animation-iteration-count: 1;
 
 .aliname{
 text-decoration: none;
-color:black;
+color:gold;
 font-weight: bolder;
 font-size: 30px;
 font-style: italic;
@@ -267,7 +297,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: 300px;
+width: auto;
   
   
 }
@@ -294,6 +324,7 @@ background:white;
   
 }
 .text{
+color:yellow;
 font-weight: bolder;  
 font-style: italic;
 font-family: serif;
@@ -304,7 +335,7 @@ animation-iteration-count: infinite;
 }
 
 .shaho{
-color:black;  
+color:white;  
 text-decoration: none;
 
 font-weight: bolder;
@@ -354,34 +385,7 @@ border-radius:30px;
 10%{box-shadow:0px 0px 20px 0px red;}
 20%{background:#CA1889D4;}
   
-} }
-
-
-@media (min-width: 992px) { body {
-    font-size: 15pt;
-    background:yellow;
-    animation-name:bod;
-    animation-duration: 1s;
-    animation-iteration-count: 1;
-    
-}
-
-@keyframes bod{
-10%{transform: translate(0px,900px);}  
-  
-}
-
-.alilist{
-border:solid 0px;
-  
-  
-}
-
-
-
-
-.snapcod{
-border-radius:40px;
+}rder-radius:40px;
 height:230px;
 width: 190px;
 animation-name:snapc;
@@ -543,6 +547,7 @@ border-radius:30px;
     animation-name:bod;
     animation-duration: 1s;
     animation-iteration-count: 1;
+
     
 }
 
@@ -577,7 +582,7 @@ animation-iteration-count: 1;
 
 .aliname{
 text-decoration: none;
-color:black;
+color:gold;
 font-weight: bolder;
 font-size: 30px;
 font-style: italic;
@@ -627,7 +632,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: 300px;
+width: auto;
   
   
 }
@@ -654,6 +659,7 @@ background:white;
   
 }
 .text{
+color:yellow;
 font-weight: bolder;  
 font-style: italic;
 font-family: serif;
@@ -664,184 +670,7 @@ animation-iteration-count: infinite;
 }
 
 .shaho{
-color:black;  
-text-decoration: none;
-
-font-weight: bolder;
-border-radius:30px;
-padding-left: 5px;
-padding-right: 5px;
-padding-bottom: 5px;
-border:solid black 4px;
-
-}
-
-.shaho:hover{
-color:red;
-font-size:20px;
-background:black;
-
-} 
-
-.IGS{
-height: 100px;
-width: 80px;
-position: relative;
-left: 80px;
-top:40px; 
-}
-.insta{
-font-weight: bolder;
-font-size: 15px; 
-font-style: italic;
-position: relative;
-color:black;
-left: 80px;
-animation-name: IGSS;
-animation-duration: 3s;
-animation-iteration-count: infinite;
-background:yellow;
-padding-top:10px;
-padding-left: 10px;
-padding-right: 10px;
-padding-bottom: 10px;
-text-decoration: none;
-border-radius:30px;
-
-}
-  
-@keyframes IGSS{
-10%{box-shadow:0px 0px 20px 0px red;}
-20%{background:#CA1889D4;}
-  
-} }                                                                                                                                                                  media (max-width: 575.98px) { body {
-    font-size: 15pt;
-    background:yellow;
-    animation-name:bod;
-    animation-duration: 1s;
-    animation-iteration-count: 1;
-    
-}
-
-@keyframes bod{
-10%{transform: translate(0px,900px);}  
-  
-}
-
-.alilist{
-border:solid 0px;
-  
-  
-}
-
-
-
-
-.snapcod{
-border-radius:40px;
-height:230px;
-width: 190px;
-animation-name:snapc;
-animation-duration: 1s;
-animation-iteration-count: 1;
-}
-
-@keyframes snapc{
-10%{transform:  rotate(500deg);}  
-  
-  
-}
-
-.aliname{
-text-decoration: none;
-color:black;
-font-weight: bolder;
-font-size: 30px;
-font-style: italic;
-animation-name: nameali;
-animation-duration:9s;
-animation-iteration-count:1;
-animation-timing-function: step-start;
-}
-
-@keyframes nameali{
-10%{color:yellow;}  
-
-  
-  
-}
-
-@keyframes goldst{
-10%{color:yellow;}
-}
-
-.storefl{
-height: 200px;
-width: 259px;
-border-radius: 0px 40px 0px 40px;
-border:solid 4px #C3D80C;
-outline: solid 0px;
-}
-.storefl:hover{
-border-color: black;  
-
-  
-}
-.ks{
- color:gold;
-animation-name: sd;
-animation-duration:3s;
-animation-iteration-count: infinite;
-font-size: 30px;
-animation-timing-function: ease-in-out; 
-  
-}
-@keyframes sd{
-10%{color:black;}  
-  
-}
-  
-
-.giff{
-height: auto;
-width: 300px;
-  
-  
-}
-.usefl{
-text-decoration: none;
-background: black;
-padding-top: 10px;
-padding-left: 15px;
-padding-right: 15px;
-
-padding-bottom: 3px;
-padding-top: 3px;
-border-radius:25px 0px 25px 0px ;
-color:white;
-font-family: serif;
-font-weight: bolder;
-border:solid #DDE14A 5px;
-  
-}
-.usefl:hover{
-color:red; 
-background:white;
-
-  
-}
-.text{
-font-weight: bolder;  
-font-style: italic;
-font-family: serif;
-animation-name:text1;
-animation-duration: 1s;
-animation-iteration-count: infinite;
-  
-}
-
-.shaho{
-color:black;  
+color:white;  
 text-decoration: none;
 
 font-weight: bolder;
@@ -900,6 +729,7 @@ border-radius:30px;
     animation-name:bod;
     animation-duration: 1s;
     animation-iteration-count: 1;
+
     
 }
 
@@ -934,7 +764,7 @@ animation-iteration-count: 1;
 
 .aliname{
 text-decoration: none;
-color:black;
+color:gold;
 font-weight: bolder;
 font-size: 30px;
 font-style: italic;
@@ -984,7 +814,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: 300px;
+width: auto;
   
   
 }
@@ -1011,6 +841,7 @@ background:white;
   
 }
 .text{
+color:yellow;
 font-weight: bolder;  
 font-style: italic;
 font-family: serif;
@@ -1021,7 +852,7 @@ animation-iteration-count: infinite;
 }
 
 .shaho{
-color:black;  
+color:white;  
 text-decoration: none;
 
 font-weight: bolder;
@@ -1075,10 +906,11 @@ border-radius:30px;
 
 @media (max-width: 991.98px) { body {
     font-size: 15pt;
-    background:yellow;
+    background:black;
     animation-name:bod;
     animation-duration: 1s;
     animation-iteration-count: 1;
+
     
 }
 
@@ -1113,7 +945,7 @@ animation-iteration-count: 1;
 
 .aliname{
 text-decoration: none;
-color:black;
+color:gold;
 font-weight: bolder;
 font-size: 30px;
 font-style: italic;
@@ -1163,7 +995,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: 300px;
+width: auto;
   
   
 }
@@ -1190,6 +1022,7 @@ background:white;
   
 }
 .text{
+color:yellow;
 font-weight: bolder;  
 font-style: italic;
 font-family: serif;
@@ -1200,7 +1033,7 @@ animation-iteration-count: infinite;
 }
 
 .shaho{
-color:black;  
+color:white;  
 text-decoration: none;
 
 font-weight: bolder;
@@ -1258,6 +1091,7 @@ border-radius:30px;
     animation-name:bod;
     animation-duration: 1s;
     animation-iteration-count: 1;
+
     
 }
 
@@ -1292,7 +1126,7 @@ animation-iteration-count: 1;
 
 .aliname{
 text-decoration: none;
-color:black;
+color:gold;
 font-weight: bolder;
 font-size: 30px;
 font-style: italic;
@@ -1342,7 +1176,7 @@ animation-timing-function: ease-in-out;
 
 .giff{
 height: auto;
-width: 300px;
+width: auto;
   
   
 }
@@ -1369,6 +1203,7 @@ background:white;
   
 }
 .text{
+color:yellow;
 font-weight: bolder;  
 font-style: italic;
 font-family: serif;
@@ -1379,7 +1214,7 @@ animation-iteration-count: infinite;
 }
 
 .shaho{
-color:black;  
+color:white;  
 text-decoration: none;
 
 font-weight: bolder;
@@ -1429,4 +1264,4 @@ border-radius:30px;
 10%{box-shadow:0px 0px 20px 0px red;}
 20%{background:#CA1889D4;}
   
-} }
+}}
